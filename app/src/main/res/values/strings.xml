@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JsonParsingRetrofitDemo</string>
+    <string name="enter_your_github_name">Enter Your GitHub Name</string>
+    <string name="get">Get Repo</string>
+</resources>
